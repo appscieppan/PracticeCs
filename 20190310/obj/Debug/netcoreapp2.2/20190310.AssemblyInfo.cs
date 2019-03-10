@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C#")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("20190310")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("C#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C#")]
+[assembly: System.Reflection.AssemblyProductAttribute("20190310")]
+[assembly: System.Reflection.AssemblyTitleAttribute("20190310")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

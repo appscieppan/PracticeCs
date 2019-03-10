@@ -1,6 +1,6 @@
-using System;
-namespace C_{
-    
+﻿using System;
+
+namespace _20190310{
     class User{
         public string name;
         public User(string name){

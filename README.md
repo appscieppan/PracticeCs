@@ -1,2 +1,0 @@
-# PracticeCs
-C# practice
