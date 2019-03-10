@@ -1,0 +1,11 @@
+C:\Users\appsc\OneDrive\Documents\C#\obj\Debug\netcoreapp2.2\C#.csprojAssemblyReference.cache
+C:\Users\appsc\OneDrive\Documents\C#\obj\Debug\netcoreapp2.2\C#.csproj.CoreCompileInputs.cache
+C:\Users\appsc\OneDrive\Documents\C#\obj\Debug\netcoreapp2.2\C#.AssemblyInfoInputs.cache
+C:\Users\appsc\OneDrive\Documents\C#\obj\Debug\netcoreapp2.2\C#.AssemblyInfo.cs
+C:\Users\appsc\OneDrive\Documents\C#\bin\Debug\netcoreapp2.2\C#.deps.json
+C:\Users\appsc\OneDrive\Documents\C#\bin\Debug\netcoreapp2.2\C#.runtimeconfig.json
+C:\Users\appsc\OneDrive\Documents\C#\bin\Debug\netcoreapp2.2\C#.runtimeconfig.dev.json
+C:\Users\appsc\OneDrive\Documents\C#\bin\Debug\netcoreapp2.2\C#.dll
+C:\Users\appsc\OneDrive\Documents\C#\bin\Debug\netcoreapp2.2\C#.pdb
+C:\Users\appsc\OneDrive\Documents\C#\obj\Debug\netcoreapp2.2\C#.dll
+C:\Users\appsc\OneDrive\Documents\C#\obj\Debug\netcoreapp2.2\C#.pdb
